@@ -1,0 +1,8 @@
+{
+    "homepage": "https://go.dev/",
+    "license": "Freeware",
+    "version": "1.19.13",
+    "url": "https://go.dev/dl/go1.19.13.windows-amd64.zip#/dl.7z",
+    "hash": "908cba438f6f34fdf5ec8572f5f8759cb85b87f5c0b4fc4a389249bf92b86736",
+    "bin": "go.exe"
+}
